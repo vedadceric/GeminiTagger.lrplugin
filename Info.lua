@@ -4,7 +4,7 @@ return {
 
     LrToolkitIdentifier = 'com.vedadceric.geminitagger',
     LrPluginName = 'Gemini AI Metadata Tagger',
-    LrPluginInfoUrl = 'https://github.com/vedadceric',
+    LrPluginInfoUrl = 'https://github.com/vedadceric/GeminiTagger.lrplugin',
 
     LrInitPlugin = 'PluginInit.lua',
     LrPluginInfoProvider = 'GeminiSettings.lua',
